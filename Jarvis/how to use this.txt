@@ -1,0 +1,28 @@
+Instructions to Run Jarvis.py - Command Line Based Personal Assistant
+
+1)Install Python: Ensure that you have Python installed on your computer. You can download the latest version of Python from the official website (https://www.python.org) and follow the installation instructions specific to your operating system.
+
+2)Install Required Libraries: Open the command prompt and install the necessary Python libraries by executing the following commands:
+
+Copy code
+pip install speech_recognition
+pip install pyttsx3
+pip install wikipedia
+pip install webbrowser
+pip install subprocess
+
+Download the Jarvis.py File: Download the Jarvis.py file, which contains the complete code for the project, from your preferred source.
+
+Navigate to the File Location: Open the command prompt and use the cd command to navigate to the directory where you have saved the Jarvis.py file.
+
+Run the Program: In the command prompt, enter the command python Jarvis.py and press Enter to run the program.
+
+Interacting with Jarvis: Once the program is running, you can interact with Jarvis using voice commands. The following commands are supported:
+
+"Open browser": Launches the default web browser.
+"Search Wikipedia": Performs a search on Wikipedia and provides a summary of the search query.
+"Open YouTube": Opens the YouTube website.
+Exiting the Program: To close the program, you can either say "Stop" as a voice command or press Ctrl+C in the command prompt to stop the Python program.
+
+
+Please note that this project is a small endeavor and may not match the full capabilities of Google Assistant. However, with consistent effort and ongoing improvements, I can create a personal assistant that surpasses the capabilities of existing virtual assistants.
